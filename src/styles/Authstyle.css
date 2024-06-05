@@ -19,7 +19,6 @@
   font-weight: bold;
 }
 .form-container form input {
-  border: 1px bold #000 !important;
   border-radius: 0;
 }
 .form-container form button {
